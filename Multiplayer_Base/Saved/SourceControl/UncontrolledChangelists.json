@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/Maps/Map_1.umap",
+				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/Framework/BP_Multiplayer_GameMode.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/Framework/BP_Multiplayer_MenuGame_mode.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/Framework/BP_Multiplayer_MenuGameMode.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/Framework/BP_Multiplayer_GameInstance.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/Framework/BP_Multiplayer_MenuPawn.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/Framework/BP_Multiplayer_MenuController.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/Maps/Menu/MainMenu_Map.umap",
+				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/Maps/Menu/LobbyMenu_Map.umap"
+			]
+		}
+	]
+}
