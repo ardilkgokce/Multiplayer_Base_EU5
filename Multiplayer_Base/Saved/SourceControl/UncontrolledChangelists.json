@@ -13,7 +13,11 @@
 				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/Framework/BP_Multiplayer_MenuPawn.uasset",
 				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/Framework/BP_Multiplayer_MenuController.uasset",
 				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/Maps/Menu/MainMenu_Map.umap",
-				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/Maps/Menu/LobbyMenu_Map.umap"
+				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/Maps/Menu/LobbyMenu_Map.umap",
+				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/Widgets/WB_MainMenu.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/Framework/BP_Multiplayer_PlayerController.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/SavedData/S_PlayerProfile.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Multiplayer_Base_EU5/Multiplayer_Base/Content/SavedData/SG_PlayerProfile.uasset"
 			]
 		}
 	]
